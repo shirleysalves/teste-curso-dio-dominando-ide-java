@@ -62,7 +62,7 @@ public class gato {
 		return "gato [nome=" + nome + ", cor=" + cor + ", idade=" + idade + "]";
 	}
 	
-	
+	/*coment
 	
 	/*public gato(String nome, String cor, Integer idade) {
 		this.nome= nome;
